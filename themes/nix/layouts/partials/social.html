@@ -58,4 +58,6 @@
 {{ with .Site.Params.CvURL }}
 <a href="{{.}}" title="Curriculum Vitae"><i class="fa fa-file-text fa-3x" aria-hidden="true"></i></a>
 {{ end }}
-
+{{ with .Site.Params.MeetupID }}
+<a href="https://www.meetup.com/{{.}}" title="Meetup"><i class="fa fa-meetup fa-3x" aria-hidden="true"></i></a>
+{{ end }}
