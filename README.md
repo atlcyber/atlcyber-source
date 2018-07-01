@@ -1,2 +1,2 @@
-# atlcyber-source
-Hugo raw source files for ATLCyber.com
+# atlcyber.github.io
+ATLCyber Hunting Lodge website
